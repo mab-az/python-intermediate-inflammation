@@ -18,9 +18,6 @@ def main(args):
         InFiles = [args.infiles]
 
 
-    # irrelevant comment
-
-
     for filename in InFiles:
         inflammation_data = models.load_csv(filename)
 
