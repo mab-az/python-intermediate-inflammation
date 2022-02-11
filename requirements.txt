@@ -3,7 +3,6 @@ attrs==21.4.0
 coverage==6.3.1
 cycler==0.11.0
 fonttools==4.29.1
--e git+https://github.com/mab-az/python-intermediate-inflammation.git@c872f0352bdebb4aaff58a6051fa66767dac962c#egg=inflammation_analysis
 iniconfig==1.1.1
 isort==5.10.1
 kiwisolver==1.3.2
